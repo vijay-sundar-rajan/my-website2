@@ -1,0 +1,21 @@
+button{
+  background-color:#000000;
+  border: 2px solid #ff8300;
+  color: #ff8300;
+  font-size: 14px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  transition-duration: 40ms;
+}
+button:hover{
+  background-color:#ff8300;
+  border: 2px solid #000000;
+  color: #000000;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
